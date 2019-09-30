@@ -1,5 +1,5 @@
 # kottans-frontend
-**Content**: [Git and Github](#git-and-github)|[Linux Command Line and HTTP Tools](#linux-command-line-and-http-tools)|[Git Collaboration](#git-collaboration)|
+**Content**: [Git and Github](#git-and-github)|[Linux Command Line and HTTP Tools](#linux-command-line-and-http-tools)|[Git Collaboration](#git-collaboration)|[Intro to HTML and CSS](#intro-to-html-and-css)
 ## Git and Github
 I've just finished the course Version Control with Git on Udacity.com and read some of extra marerials. I've learned a lot of useful and very cool informations. In my opinion Git is very powerful.
 - As for me there are a lot of thing that was new to me: branching, tagging, merging and undoing changes. Now I know a lot of git command that are very useful. Just look on **git log** command. It displays everything! At the same time I've learned the structure of Version Control System(working directory,staging index and repo). 
@@ -19,3 +19,9 @@ I finished **Git for Team Collaboration** and now I know many git commands for k
 - Now I know this command ```git pull, git push, git rebase```. There are fantastic! Also I learned functionality of Fork and Star buttons.
 - I am better understand ```pull request``` and Fork repo after having completed this course. I was surprised because I hadn't known that ```git pull``` combines at the same time 2 commands ```git fetch and git merge```.
 - All of this I intend to use in future especially  commands ```git pull, git push``` and sometimes ```git rebase```.
+## Intro to HTML and CSS
+[Screenshots from Intro to HTML and CSS](/task_html_css_intro)
+I have learned a lot of useful and powerful information from this lessons.I believe this knowledge will help me very in future!
+- Now I know many new tags(from simple ```p, h?, img``` tags to very powerful ```form, table, a```). I have learned many ```input```'s types: ```text, submit, password, checkbox, radio, etc```. Aslo now I khow what is **inherit** and **cascading** and how use their properties.
+- I was impressed how Css rules can change appearance of web page without changing og structure of HTML document. I can change cursor or something else just writing only one line. Aslo I was surprised that pseudo-classes can help so much, especially ```hover and nth-child(n)```.
+- All this knowledge I intend to use in future because all of them are very powerful and useful for frontend!
